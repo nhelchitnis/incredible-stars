@@ -14,15 +14,19 @@
 - [bootstrap](#bootstrap)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [deno](#deno)
 - [devops](#devops)
 - [docker](#docker)
 - [dotnet](#dotnet)
 - [electron](#electron)
+- [firebase](#firebase)
+- [flask](#flask)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game-development](#game-development)
@@ -32,7 +36,10 @@
 - [github-api](#github-api)
 - [go](#go)
 - [good-first-issue](#good-first-issue)
+- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
+- [html](#html)
 - [html5](#html5)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
@@ -50,6 +57,7 @@
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [others](#others)
 - [package-manager](#package-manager)
 - [php](#php)
@@ -57,10 +65,12 @@
 - [programming](#programming)
 - [pwa](#pwa)
 - [python](#python)
+- [python3](#python3)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [swift](#swift)
 - [swiftui](#swiftui)
 - [terminal](#terminal)
@@ -112,6 +122,10 @@
 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 
+## continuous-integration 
+
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+
 ## cpp 
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -134,12 +148,17 @@
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
+## deno 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+
 ## devops 
 
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 ## docker 
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 ## dotnet 
@@ -150,12 +169,21 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
+## firebase 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+
+## flask 
+
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+
 ## framework 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## frontend 
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## game-development 
@@ -172,6 +200,7 @@
 
 ## github 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -191,13 +220,27 @@
 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
+## graphql 
+
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
+
 ## hacktoberfest 
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!
+
+## home-assistant 
+
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant
+
+## html 
+
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 
 ## html5 
 
@@ -205,6 +248,7 @@
 
 ## javascript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
@@ -253,6 +297,7 @@
 
 ## mongodb 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 ## monitoring 
@@ -272,8 +317,13 @@
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [EddieHubCommunity/CreatorsRegistry](https://github.com/EddieHubCommunity/CreatorsRegistry) - A place for Creators to get paid for their content 💰. Companies don't only look for big influencers but also micro influencers. Join the platform and let them find you!
 
+## numpy 
+
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+
 ## others 
 
+- [mikeselva123/awesome-github-profiles](https://github.com/mikeselva123/awesome-github-profiles) - A collection of Amazing Github Profiles for your inspiration
 - [nammayatri/nammayatri](https://github.com/nammayatri/nammayatri) - A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
 - [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
@@ -301,6 +351,7 @@
 
 ## postgresql 
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 ## programming 
@@ -313,7 +364,13 @@
 
 ## python 
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+
+## python3 
+
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## raspberry-pi 
 
@@ -321,6 +378,7 @@
 
 ## react 
 
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [reaviz/reaviz](https://github.com/reaviz/reaviz) - 📊 Data visualization library for React. Maintained by @goodcodeus.
 
@@ -331,6 +389,10 @@
 ## security 
 
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+
+## self-hosted 
+
+- [Flagsmith/flagsmith](https://github.com/Flagsmith/flagsmith) - Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/
 
 ## swift 
 
